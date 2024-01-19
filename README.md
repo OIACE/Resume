@@ -23,5 +23,6 @@ Nodejs | Typescript | SQL | Comunicação efetiva | Trabalho em grupo | Git e Gi
 ##### Nível profissionalizante 
 ##### Julho DE 2023 - Novembro DE 2023
 #### Passei pelo processo seletivo Da Cubos Academy patrocinado pelo ifood, nesse curso tive todo o contato com desenvolvimento back-end e trabalho em equipe desenvolvendo projetos em grupo.
+[certificado Cubos Academy](https://aulas.cubos.academy/certificado/278c06da-9224-4331-b174-8978ec018f88?utm_medium=email&_hsmi=211419814&_hsenc=p2ANqtz--3AC-MzCzfRLkAIFNF_THpd09-i2FUIGpUkzwug294t8_aLx0RlyvSnOGFxPxbTVaQ6E-mUQaoRBXsEzBnilb8kfoPYw&utm_content=211419814&utm_source=hs_email)
 
 
