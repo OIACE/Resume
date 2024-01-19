@@ -18,10 +18,10 @@ Nodejs | Typescript | SQL | Comunicação efetiva | Trabalho em grupo | Git e Gi
 ##### Março DE 2018 - Novembro DE 2020
 ### Universidade  Católica De Brasília
 ##### Faculdade - Graduação 
-##### Fevereiro DE 2024 - Fevereiro 2026
+##### Fevereiro DE 2024 - Fevereiro DE 2026
 ### Desenvolvimento de software
 ##### Nível profissionalizante 
-##### Julho DE 2023 - Novembro de 2023
+##### Julho DE 2023 - Novembro DE 2023
 #### Passei pelo processo seletivo Da Cubos Academy patrocinado pelo ifood, nesse curso tive todo o contato com desenvolvimento back-end e trabalho em equipe desenvolvendo projetos em grupo.
 
 
