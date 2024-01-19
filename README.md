@@ -13,4 +13,15 @@ Nodejs | Typescript | SQL | Comunicação efetiva | Trabalho em grupo | Git e Gi
 * [telefone](77991866262)
 * [github](https://github.com/C410E/)
 ## Formação 
+### Escola Estadual Rolando Laranjeira Barbosa
+#### Escola - Ensino médio
+#### Março DE 2018 - Novembro DE 2020
+### Universidade  Católica De Brasília
+#### Faculdade - Graduação 
+#### Fevereiro DE 2024 - Fevereiro 2026
+### Desenvolvimento de software
+#### Nível profissionalizante 
+#### Julho DE 2023 - Novembro de 2023
+#### Passei pelo processo seletivo Da Cubos Academy patrocinado pelo ifood, nesse curso tive todo o contato com desenvolvimento back-end e trabalho em equipe desenvolvendo projetos em grupo.
+
 
