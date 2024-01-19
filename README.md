@@ -11,6 +11,6 @@ Nodejs | Typescript | SQL | Comunicação efetiva | Trabalho em grupo | Git e Gi
 * [portfólio](https://portfolio-v2-drab-two.vercel.app)
 * [email](caioevandro0@gmail.com)
 * [telefone](77991866262)
-* [Github](https://github.com/C410E/)
+* [github](https://github.com/C410E/)
 ## Formação 
 
