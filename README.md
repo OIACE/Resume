@@ -8,4 +8,4 @@
 Nodejs | Typescript | SQL | Comunicação efetiva | Trabalho em grupo | Git e GitHub | PostgreSQL | Docker | C# | Go | React | Next
 
 ## Contatos 
-### (portfólio)[https://portfolio-v2-drab-two.vercel.app]
+### [portfólio](https://portfolio-v2-drab-two.vercel.app)
